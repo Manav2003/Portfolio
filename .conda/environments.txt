@@ -1,0 +1,3 @@
+D:\Softwares\anaconda3
+D:\Softwares\anaconda3\envs\arena5
+D:\Softwares\anaconda3\envs\arena5\envs\arena5

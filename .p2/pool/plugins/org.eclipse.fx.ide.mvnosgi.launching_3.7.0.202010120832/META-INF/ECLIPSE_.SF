@@ -1,0 +1,23 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: EufNW0vRaos1fwDoduotWAvMplkC0
+ w82F0fh/n1R5kE=
+SHA-256-Digest-Manifest: bnnJu58PjlHilmXa8ZkPSW5LatKj9iK96DpCtR3zm94=
+Created-By: 1.8.0_51 (Oracle Corporation)
+
+Name: plugin.xml
+SHA-256-Digest: I6mXM+EXJr8BIb528SARa34FGTuT4UFShUtjzRrVV98=
+
+Name: org/eclipse/fx/ide/mvnosgi/launching/MVNSourcePathProvider.class
+SHA-256-Digest: ClNgDWKUP0y5E/bJxjNdbsY5BsYKaWHc9Eq6XYimuvs=
+
+Name: org/eclipse/fx/ide/mvnosgi/launching/MVNOSGiApplicationLaunchCon
+ figuration.class
+SHA-256-Digest: RbekXxPeM2w/uDCh7rmiJzsexU5UzjdBQnng6Z1Cu98=
+
+Name: org/eclipse/fx/ide/mvnosgi/launching/MVNOSGiApplicationLaunchCon
+ figuration$Bundle.class
+SHA-256-Digest: qas6+VlkJlPeFvBQDrXq5P8D7DLaVrKpy6qOIDuROdo=
+
+Name: org/eclipse/fx/ide/mvnosgi/launching/MVNSourcePathLocator.class
+SHA-256-Digest: ufnO+QL9h/kQvbdWJwEjZQpXdfrcfGLBWirwMI7Deds=
+

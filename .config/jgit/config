@@ -1,0 +1,3 @@
+[filesystem "Eclipse Adoptium|18.0.1|1856295437"]
+	timestampResolution = 2203 microseconds
+	minRacyThreshold = 0 nanoseconds
